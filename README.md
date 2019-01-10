@@ -2,7 +2,7 @@
     "code":200,
     "msg":"success",
     "data":{
-        "content":"http://image2.xyzs.com/upload/af/21/1105/20141205/141771051564760_0.jpg",
+        "content":"https://raw.githubusercontent.com/cho651/WeatherTeam/master/qqq.png",
         "openUrl":"http://www.google.com",
         "contentSize":"1242*1786",
         "duration":5,
