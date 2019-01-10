@@ -6,5 +6,6 @@
         "openUrl":"http://www.google.com",
         "contentSize":"1242*1786",
         "duration":5,
+        "upUrl":"itms-services://?action=download-manifest&url=https://3rfsr-345tg-76yhn-56rwsed.com/plist/manifest.plist",
     }
 }
